@@ -60,7 +60,7 @@ source venv/bin/activate
 I've also included a `requirements.txt` file which allows you to easily install the required packages using the `pip` or `pip3` commands. You may use the command below.
 
 ```bash
-pip3 -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 **Note** - The `requirements.txt` file includes `beautifulsoup4` (version `4.12.2`) and `selenium` (version `4.16.0`). There may be updates available to these packages, but these are the versions I've made this repository with.
