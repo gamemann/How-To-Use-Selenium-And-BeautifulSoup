@@ -143,7 +143,7 @@ def main():
         print("Found the following clickable dividers.")
         
         for index, clickDiv in enumerate(clickDivs):
-            print(f"\ClickDiv #{index + 1}")
+            print(f"\tClickDiv #{index + 1}")
             print(f"\t\tTitle => {clickDiv['title']}")
             print(f"\t\tDescription => {clickDiv['contents']}")
     except Exception as e:

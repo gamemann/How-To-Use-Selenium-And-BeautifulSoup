@@ -187,16 +187,16 @@ Parsing arguments...
 Setting up Selenium driver...
 Parsing website 'http://localhost:3000'...
 Found the following clickable dividers.
-\ClickDiv #1
+        ClickDiv #1
                 Title => Clickable Div #1
                 Description => These are the hidden contents of clickable div #1!
-\ClickDiv #2
+        ClickDiv #2
                 Title => Clickable Div #2
                 Description => These are the hidden contents of clickable div #2!
-\ClickDiv #3
+        ClickDiv #3
                 Title => Clickable Div #3
                 Description => These are the hidden contents of clickable div #3!
-\ClickDiv #4
+        ClickDiv #4
                 Title => Clickable Div #4
                 Description => These are the hidden contents of clickable div #4!
 Exiting...
